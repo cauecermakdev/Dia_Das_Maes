@@ -1,0 +1,2 @@
+# Arquivos estáticos ficam aqui
+# Suba suas imagens (foto1.jpg, foto2.jpg, ..., familia.jpg) nesta pasta.
